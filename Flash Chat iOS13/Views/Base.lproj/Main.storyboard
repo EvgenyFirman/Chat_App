@@ -379,7 +379,9 @@
         </scene>
     </scenes>
     <designables>
-        <designable name="y7D-jv-BlJ"/>
+        <designable name="y7D-jv-BlJ">
+            <size key="intrinsicContentSize" width="307.5" height="60"/>
+        </designable>
     </designables>
     <inferredMetricsTieBreakers>
         <segue reference="NPm-9S-WqE"/>
